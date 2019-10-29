@@ -1,5 +1,6 @@
 {
   "name": "phpswift/cms-widgets",
+  "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
       "cms\\widgets\\": "src"
